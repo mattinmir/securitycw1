@@ -1,0 +1,1 @@
+CryptoAPI.sha1._round = function(H, w) {alert('3');}
